@@ -1,4 +1,4 @@
-# Object-Detection-using-Webcam
+# Object-Detection-using-SIFT
 
 This is an object detection program using SIFT which is a feature detection algorithm in computer vision to detect and describe local features in images. In this project I was able to detect my mobile phone as an object in front of the webcam. At first I drew a bounding box or a rectangular region of interest (ROI) in the image captured from the webcam. When the object which is to be detected comes inside the box is identifed and is being highlighted by drawing a green box around it.
 
